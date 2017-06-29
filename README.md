@@ -13,7 +13,7 @@ In my NetWalk application, it contains the following:
 -	Mute Music Button
 -	Score System
 
-Main Menu /n
+Main Menu
 In the main menu, it contains the logo of the game as well as 3 buttons the player can interact with. The first button takes the player to the main game section where a grid will be generated and scrambled for the player to solve. The size of the grid depends on what difficulty the game is on. 
 
 Difficulty Section
